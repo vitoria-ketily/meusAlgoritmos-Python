@@ -1,0 +1,5 @@
+print("Digite sua idade. ex: 1 ano, 6 mese e q dia.")
+anos=int (input("anos:"))
+meses=int(input("meses:"))
+dias=int(input("dias:"))
+print("A quantidade de dias que vocễ viveu foi:",((anos*365)+dias) , "dias")
